@@ -1,5 +1,4 @@
 4 Estudiantes que están concursando en una competencia de Matemáticas debido a sus habilidades y desempeño en la materia pudieron lograr llegar a la final de dicha competencia, donde su prueba final estaba relacionada a la implementación del triángulo de pascal. El ejercicio constaba de tres ejercicios los cuales eran los siguientes:
 1.	Resolver el binomio (a+2b)a la sexta
 2.	Debian averiguar cuantas combinaciones posibles habían para 4 colores si se debían elegir 2 de ellos 
-3.	Debian averiguar si existían sumatorias de ciertos números dentro del triangulo de pascal, sino existen sumatorias explique la razón.
-Solución:
+Debian averiguar si existían sumatorias de ciertos números dentro del triangulo de pascal, sino existen sumatorias explique 
